@@ -1,4 +1,4 @@
-# DiploDatos2021
+# DIPLOMATURA EN CIENCIA DE DATOS, APRENDIZAJE AUTOMÁTICO Y SUS APLICACIONES
 
 ## Mentoria Bancor
 
@@ -6,7 +6,8 @@
 
 En este espacio encontrarán las instrucciones de los prácticos que abordaremos durante la Diplomatura y los DATASET necesarios.
 Dejaré disponible el material 2 semanas antes de cada entrega.
-Las fechas de entrega son las siguientes:
+
+Las fechas de entrega son las siguientes (pendiente de actualizacion programa 2022):
 
     06/06 entrega práctico resuelto de análisis y visualización (práctico 1)
 
@@ -26,7 +27,7 @@ Las fechas de entrega son las siguientes:
 
     12/11 y 13/11 jornadas de presentación de mentorías
 
-Cualquier consulta, la pueden canalizar a mi correo cmartinez@bancor.com.ar o vía Slack.
+Cualquier consulta, la pueden canalizar a mi correo quilimartinez@gmail.com
 
 Éxitos.
 
