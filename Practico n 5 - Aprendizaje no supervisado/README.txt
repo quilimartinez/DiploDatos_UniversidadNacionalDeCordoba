@@ -1,4 +1,4 @@
-Práctico 5: Aprendizaje No Supervisado
+Práctico 4: Aprendizaje No Supervisado
 
 Objetivo:
 Desarrollar un k-means clustering para clasificar los clientes de acuerdo a alguna(s) variable(s) de interés para ustedes.
