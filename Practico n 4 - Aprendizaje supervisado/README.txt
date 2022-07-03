@@ -16,8 +16,9 @@ Para ello se solicita a continuación:
 2. ¿Son las distribuciones de los datos similares en ambos conjuntos? Si la respuesta es no, ¿qué decisión tomarían?
 3. Probar un modelo de regresión logística sobre los datos sin normalizar. Para ello realizar la codificación de las variables categóricas elegidas para el modelo, mediante la creación de varibles dummy. 
 Analizar los resultados y medir la performance del modelo.
-4. En las variables seleccionadas, verificar si se cumple el supuesto de Multicolinealidad de variables. En caso que así sea, proceder con la selección de nuevas variables.
-5. Probar un modelo de árboles de decisión para el mismo problema de clasificación con los datos. 
+En las variables seleccionadas, verificar si se cumple el supuesto de Multicolinealidad de variables. En caso que así sea, proceder con la selección de nuevas variables.
+5. Ordenar a todos los clientes en funcion de su propensión a dar de alta un Préstamo Personal y sugerir a partir de qué corte de probabilidad de debería ofrecer un Préstamo Personal a cada cliente. 
+6. Probar un modelo de árboles de decisión para el mismo problema de clasificación con los datos. 
 Se pueden normalizar variables.
 Analizar los resultados y medir la performance del modelo.
 
