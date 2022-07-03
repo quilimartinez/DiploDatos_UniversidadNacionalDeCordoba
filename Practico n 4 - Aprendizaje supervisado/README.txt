@@ -12,13 +12,18 @@ Intentaremos responder a la siguiente pregunta:
 
 Para ello se solicita a continuación:
 
-1. Dividir el dataset en conjuntos de entrenamiento, validación y test realizando un muestreo estratificado. ¿Qué variables condiseran relevantes para realizar el muestreo? ¿Por qué?
+1. Dividir el dataset en conjuntos de entrenamiento, validación y test realizando un muestreo estratificado. ¿Qué variables condiseran relevantes para realizar el muestreo? ¿Por qué? Seleccionarla y utilizarla para el muestreo.
 2. ¿Son las distribuciones de los datos similares en ambos conjuntos? Si la respuesta es no, ¿qué decisión tomarían?
-3. Probar un modelo de regresión logística sobre los datos sin normalizar. Para ello realizar la codificación de las variables categóricas elegidas para el modelo, mediante la creación de varibles dummy. Analizar los resultados.
-4. Probar un modelo de árboles de decisión también sobre los datos. Se pueden normalizar variables, y evaluar resultados.
-5. Analizar y exponer los resultados obtenidos hasta el momento de alguna manera que se puedan comparar entre ellos y elegir el modelo mas performante
+3. Probar un modelo de regresión logística sobre los datos sin normalizar. Para ello realizar la codificación de las variables categóricas elegidas para el modelo, mediante la creación de varibles dummy. 
+Analizar los resultados y medir la performance del modelo.
+4. En las variables seleccionadas, verificar si se cumple el supuesto de Multicolinealidad de variables. En caso que así sea, proceder con la selección de nuevas variables.
+5. Probar un modelo de árboles de decisión para el mismo problema de clasificación con los datos. 
+Se pueden normalizar variables.
+Analizar los resultados y medir la performance del modelo.
 
-Para un mayor enriquecimiento del trabajo práctico, se puede crear nuevos features relacionando las varaibles del dataset, utilizar un distintos criterios de normalización de variables (logaritmo, raiz cuadrada, etc), utilizar distintos métodos de seleccion de variables (regresion forward, regresion backward, regresion stepwise)
+6. Comparar los modelos entre ellos y elegir el modelo mas performante para implementar en Banco de Córdoba justificando la elección.
+
+Para un mayor enriquecimiento del trabajo práctico se pueden crear nuevos features relacionando las varaibles del dataset y utilizando distintos criterios de normalización de variables (logaritmo, raiz cuadrada, etc). Tambien pueden probar utilizar distintos métodos de seleccion de variables (regresion forward, regresion backward, regresion stepwise) y elegir el más performante.
 
 
 Entregas:
