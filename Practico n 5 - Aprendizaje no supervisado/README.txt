@@ -1,13 +1,23 @@
 Práctico 4: Aprendizaje No Supervisado
 
-Objetivo:
-Desarrollar un k-means clustering para clasificar los clientes de acuerdo a alguna(s) variable(s) de interés para ustedes.
 
-1. Definir las variables de clasificación que consideren relavantes (tengan en cuenta lo aprendido hasta aquí)
-2. Definir el número de clusters k que sugieran oportuno. Justificar la elección.
-3. Interpretar los resultados (clusters) obtenidos y explicar que valor agregado le suma a la organización éste agrupamiento
-4. Eleborar una pequeña estrategia de acción con los clusters desarrollados 
-5. ¿Qué otros modelos de aprendizaje no supervisado se podrían utilizar en éste proyecto? ¿Que valor agregaría?
+Bajo la premisa que se han implementado con éxito los modelos a aprendizaje supervisado trabajados anteriormente, los cuales han permitido mejorar las tasas de conversión en campañas de Préstamos Personales, se observa que hay grupos de clientes que tienen una performance muy distinta.
+
+Debido a ésta situación, se plantea la necesidad de generar campañas comerciales diferenciales a cada segmento o grupo de clientes.
+Para ello, se les solicita utilizar sus conocimientos técnicos y creatividad.
+
+Objetivo:
+
+Desarrollar un modelo de aprendizaje no supervisado utilizando la técnica de clustering con el objetivo de clasificar a los clientes en grupos de interés heterogéneos entre sí.
+
+Para ello deberán trabajar en equipo en las siguientes consignas: 
+
+1. Definir la/s variable(s) de interés acorde al objetivo planteado (tengan en cuenta lo aprendido hasta aquí para aplicar criterios)
+2. Seleccionar el/los algoritmos más oportunos para resolver éste problema y justificar la elección.
+3. Hacer distintas pruebas de hiperparámetros de cada algoritmo y seleccionar uno.
+4. Interpretar los resultados (clusters) obtenidos y explicar que valor agregado le suma a la organización éste agrupamiento
+5. Definir una estrategia para llevar el modelo a producción. ¿Cómo medirían su performance?
+6. ¿Qué otros modelos de aprendizaje no supervisado se podrían utilizar en éste proyecto? Menciononen alguno/s y el aporte a la organización.
 
 Entregas:
 Breve informe en el cual desarrollen los puntos anteriores y las conclusiones obtenidas (no agregar código al informe)
