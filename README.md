@@ -15,7 +15,7 @@ Las fechas de entrega son las siguientes:
 
 27/07 Mentorías - Entrega del video de presentación intermedia del proyecto (video - presentación 1)
 
-11/09 Mentorías - Los alumnos entregan el  práctico de aprendizaje supervisado o no supervisado (práctico 3)
+11/09 Mentorías - Práctico de aprendizaje supervisado o no supervisado (práctico 3)
 
 23/09 Mentoría - Entrega del video de presentación final de la mentoría (video - presentación 2)
 
