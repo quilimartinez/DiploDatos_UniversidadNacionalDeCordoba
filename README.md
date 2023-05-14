@@ -7,21 +7,14 @@
 En este espacio encontrarán las instrucciones de los prácticos que abordaremos durante la Diplomatura y los DATASET necesarios.
 Dejaré disponible el material 2 semanas antes de cada entrega.
 
-Las fechas de entrega son las siguientes (pendiente de actualizacion programa 2022):
+Las fechas de entrega son las siguientes:
 
-    20/05 Entrega práctico resuelto de análisis y visualización (práctico 1)
-
-    17/06 Entrega práctico resuelto de análisis y curación (práctico 2)
-
-    24/06 Entrega del video de presentación del proyecto (presentación 1 - POR GRUPO)
-
-    29/07 Entrega práctico resuelto de aprendizaje supervisado (práctico 3)
-
-    26/08 entrega práctico resuelto de aprendizaje no supervisado (práctico 4)
-
-    23/09 entrega del video de presentación de la mentoría (presentación 2  - POR GRUPO)
-
-    11/11 y 12/11 jornadas de presentación de mentorías
+23/06 Mentorías - Práctico resuelto de análisis y visualización (práctico 1)
+17/07 Mentorías - Práctico resuelto de exploración y curación (práctico 2)
+27/07 Mentorías - Entrega del video de presentación intermedia del proyecto (video - presentación 1)
+11/09 Mentorías - Los alumnos entregan el  práctico de aprendizaje supervisado o no supervisado (práctico 3)
+23/09 Mentoría - Entrega del video de presentación final de la mentoría (video - presentación 2)
+10/11 y 11/11  - Mentorías - Jornadas de presentación de videos
 
 Cualquier consulta, la pueden canalizar a mi correo quilimartinez@gmail.com
 
