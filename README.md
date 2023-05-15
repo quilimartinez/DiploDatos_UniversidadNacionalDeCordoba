@@ -4,8 +4,7 @@
 
 ¡Bienvenid@s!
 
-En este espacio encontrarán las instrucciones de los prácticos que abordaremos durante la Diplomatura y los DATASET necesarios.
-Dejaré disponible el material 2 semanas antes de cada entrega.
+En este espacio encontrarán las instrucciones de los prácticos que abordaremos durante la Diplomatura y el DATASET necesario.
 
 Las fechas de entrega son las siguientes:
 
