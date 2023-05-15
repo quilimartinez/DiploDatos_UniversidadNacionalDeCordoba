@@ -1,6 +1,6 @@
 # DIPLOMATURA EN CIENCIA DE DATOS, APRENDIZAJE AUTOMÁTICO Y SUS APLICACIONES
 
-## Mentoria Bancor
+## Mentoria "Todo lo que un banco sabe de vos"
 
 ¡Bienvenid@s!
 
